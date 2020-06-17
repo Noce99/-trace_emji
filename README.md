@@ -1,2 +1,2 @@
-# -trace_emji
+# trace-emoji
 Transform photos in emoji artwork
